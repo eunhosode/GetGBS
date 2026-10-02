@@ -2,12 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url(https://scontent-a.xx.fbcdn.net/hphotos-prn2/t31.0-8/1502678_10100298599491097_828497142_o.jpg);
-  background-attachment: fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: #faf8ef;
   color: black;
   color: #222;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
@@ -21,7 +16,7 @@ html, body {
 h1.title {
   font-size: 64px;
   font-weight: bold;
-  color: #A31F34;
+  color: #315d78;
   margin: 0;
   display: block;
   float: left; }
@@ -108,7 +103,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: #315d78;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
